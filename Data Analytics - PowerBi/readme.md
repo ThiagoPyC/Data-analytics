@@ -3,7 +3,7 @@ Objetivo do projeto é criar uma solução de análise de dados usando o Power B
 
 Inicialmente utilizei o SQL para criação das views separando as tabelas em dimensões e tabelas fatos. As tabelas de dimensões são usadas para armazenar dados de contexto, como dados sobre clientes, produtos, vendedores e calendário, já as tabelas fatos são usadas para armazenar dados sobre transações, como vendas, métricas do negócio e etc... As views servem para facilitar a recuperação de dados do banco de dados. Por exemplo, a view dCliente pode ser usada para recuperar informações sobre um cliente, incluindo sua localização. 
 
-![](./readme/view_sql.jpg)
+![](./readme/View_sql.jpg)
   
 
 Na imagem acima vemos a view dCliente sendo criada com as informações sobre clientes e sua localização geográfica. Ela é criada a partir de uma consulta que junta as tabelas Cliente, Geografia e RegioesBrasil com a função LEFT JOIN. A visão resultante contém as seguintes colunas: id, geografia_id, descrição, cidade, uf, estado e Região. 
