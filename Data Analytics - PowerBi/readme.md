@@ -1,4 +1,4 @@
-## Data Analytics - PowerBI and SQL
+## Data Analytics PowerBI and SQL - [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVjY2VmZjctNjliZi00OGI3LWIyNDQtNTc3YzI5YTEwYjk2IiwidCI6ImZhZDg1ZGFiLWVjODAtNGE3Yi05YmZmLTJlNDA3MzQ0YmZhNyJ9)
 Objetivo do projeto é criar uma solução de análise de dados usando o Power BI. A ideia é, simular diferentes situações e ajudar os líderes a decidirem sobre o futuro dos produtos e lojas. 
 
 Inicialmente utilizei o SQL para criação das views separando as tabelas em dimensões e tabelas fatos. As tabelas de dimensões são usadas para armazenar dados de contexto, como dados sobre clientes, produtos, vendedores e calendário, já as tabelas fatos são usadas para armazenar dados sobre transações, como vendas, métricas do negócio e etc... As views servem para facilitar a recuperação de dados do banco de dados. Por exemplo, a view dCliente pode ser usada para recuperar informações sobre um cliente, incluindo sua localização. 
