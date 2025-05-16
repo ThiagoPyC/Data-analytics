@@ -14,7 +14,6 @@ Logo em seguida fiz a conexão local da base de dados do SQL Server no Power Bi 
 
 Esses relacionamentos entre essas entidades permitem que o sistema rastreie as vendas realizadas, os produtos vendidos, os clientes que realizaram as vendas e os vendedores que realizaram as vendas.  Por exemplo, Cliente: tem um relacionamento com a tabela Vendas. Cada cliente pode ter várias vendas associadas. Além disso, a tabela Vendas também está relacionada à tabela Metas, indicando que as vendas podem ser usadas para medir o progresso em relação às metas estabelecidas. E a tabela Metas: também tem uma relação com a tabela Produto, apontando que as metas podem ser definidas com base em categorias de produtos específicas. Essas são alguns exemplos dos relacionamentos acima. Por fim realizei a criação do visual:  
 
-![](./readme/dashboard.jpg) 
 
 Utilizei um background feito no Figma (uma plataforma para criação de templates) e criei várias medidas para uma melhor compreensão dos dados nos visuais. Caso queira acessar o visual segue o link: [Dashboard](
 https://app.powerbi.com/view?r=eyJrIjoiYjhjODRmMWYtMWYyMi00ZmI4LWIwYzItY2ZiNDE2NDQwYTY1IiwidCI6ImZhZDg1ZGFiLWVjODAtNGE3Yi05YmZmLTJlNDA3MzQ0YmZhNyJ9)
