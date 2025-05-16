@@ -16,4 +16,4 @@ Esses relacionamentos entre essas entidades permitem que o sistema rastreie as v
 
 ![](./readme/dashboard.jpg) 
 
-Utilizei um background feito no Figma (uma plataforma para criação de templates) e criei várias medidas para uma melhor compreensão dos dados nos visuais. Caso queira acessar o visual segue o link: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVjY2VmZjctNjliZi00OGI3LWIyNDQtNTc3YzI5YTEwYjk2IiwidCI6ImZhZDg1ZGFiLWVjODAtNGE3Yi05YmZmLTJlNDA3MzQ0YmZhNyJ9)
+Utilizei um background feito no Figma (uma plataforma para criação de templates) e criei várias medidas para uma melhor compreensão dos dados nos visuais. Caso queira acessar o visual segue o link: [Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiODVjY2VmZjctNjliZi00OGI3LWIyNDQtNTc3YzI5YTEwYjk2IiwidCI6ImZhZDg1ZGFiLWVjODAtNGE3Yi05YmZmLTJlNDA3MzQ0YmZhNyJ9](https://app.powerbi.com/view?r=eyJrIjoiYjhjODRmMWYtMWYyMi00ZmI4LWIwYzItY2ZiNDE2NDQwYTY1IiwidCI6ImZhZDg1ZGFiLWVjODAtNGE3Yi05YmZmLTJlNDA3MzQ0YmZhNyJ9))
